@@ -117,8 +117,8 @@ JavaScript  ██████░░░░ Intermediate
 
 ## 🤝 Connect With Me
 
-- 📧 **Email:** jalel.masmoudi@example.com
-- 🔗 **LinkedIn:** [Your LinkedIn Profile](#)
+- 📧 **Email:** m.j.masmoudi1@gmail.com
+- 🔗 **LinkedIn:** https://www.linkedin.com/in/jalel-masmoudi-0542b4200
 - 🌐 **Website:** [Personal Portfolio](#)
 - 💬 **GitHub:** Active in discussions and issues
 
