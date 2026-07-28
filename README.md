@@ -73,17 +73,12 @@ A collection of algorithms and data structures implemented with explanations and
 ## GitHub Analytics
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=jalel-masmoudi&show_icons=true&hide_border=true&theme=transparent"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jalel-masmoudi&layout=compact&hide_border=true&theme=transparent"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=jalel-masmoudi&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=transparent" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jalel-masmoudi&layout=compact&hide_border=true&theme=transparent" width="48%" />
 </p>
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=jalel-masmoudi&hide_border=true&theme=transparent"/>
-
+  <img src="https://streak-stats.demolab.com?user=jalel-masmoudi&hide_border=true&theme=transparent" />
 </p>
 
 ---
@@ -109,19 +104,15 @@ Open Source Development
 <p align="center">
 
 <a href="mailto:m.j.masmoudi1@gmail.com">
-Email
+<img src="https://img.shields.io/badge/Email-m.j.masmoudi1%40gmail.com-black?style=for-the-badge&logo=gmail">
 </a>
-
-&nbsp;&nbsp;•&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/jalel-masmoudi-0542b4200">
-LinkedIn
+<img src="https://img.shields.io/badge/LinkedIn-Jalel%20Masmoudi-black?style=for-the-badge&logo=linkedin">
 </a>
 
-&nbsp;&nbsp;•&nbsp;&nbsp;
-
 <a href="https://github.com/jalel-masmoudi">
-GitHub
+<img src="https://img.shields.io/badge/GitHub-jalel--masmoudi-black?style=for-the-badge&logo=github">
 </a>
 
 </p>
