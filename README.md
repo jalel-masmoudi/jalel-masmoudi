@@ -73,12 +73,12 @@ A collection of algorithms and data structures implemented with explanations and
 ## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jalel-masmoudi&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=transparent" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jalel-masmoudi&layout=compact&hide_border=true&theme=transparent" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jalel-masmoudi&theme=github_dark" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=jalel-masmoudi&hide_border=true&theme=transparent" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jalel-masmoudi&theme=github_dark" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jalel-masmoudi&theme=github_dark" width="45%" />
 </p>
 
 ---
