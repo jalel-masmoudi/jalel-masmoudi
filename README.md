@@ -1,131 +1,136 @@
+<!-- Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
 
 # Jalel Masmoudi
 
-### AI Software Engineer · Full Stack Developer · Computer Science Student
+Building intelligent software.
 
-Building intelligent systems and modern applications that solve real problems.
-
-<br>
-
-<a href="mailto:m.j.masmoudi1@gmail.com">
-<img src="https://img.shields.io/badge/Email-m.j.masmoudi1%40gmail.com-black?style=for-the-badge&logo=gmail">
-</a>
-
-<a href="https://www.linkedin.com/in/jalel-masmoudi-0542b4200">
-<img src="https://img.shields.io/badge/LinkedIn-Jalel%20Masmoudi-black?style=for-the-badge&logo=linkedin">
-</a>
-
-<a href="https://github.com/jalel-masmoudi">
-<img src="https://img.shields.io/badge/GitHub-jalel--masmoudi-black?style=for-the-badge&logo=github">
-</a>
+AI Engineering  
+Full Stack Development  
+Backend Systems  
+Developer Tools
 
 </div>
-
-<br>
 
 ---
 
-<div align="center">
+## About
 
-## About Me
+Computer Science student at the North American University of Sfax, Tunisia.
 
-</div>
+I build AI-powered applications and full stack systems focused on automation, productivity, and solving real-world problems.
 
-Computer Science student at the North American University of Sfax.
-
-I build AI-powered applications, backend systems, and full stack products.  
-My interests are centered around artificial intelligence, scalable architecture, and turning ideas into usable software.
+My interests include artificial intelligence, backend architecture, system design, algorithms, and creating software that is both useful and scalable.
 
 ---
 
-<div align="center">
-
-## Featured Work
-
-</div>
-
-<table>
-<tr>
-<td width="50%">
+## Projects
 
 ### Jigo AI Workspace
 
-Enterprise AI platform for knowledge retrieval, document intelligence, workflow automation, and business productivity.
+Enterprise AI workspace that helps organizations interact with their data through natural language.
 
-</td>
+Features include intelligent search, document understanding, automated reporting, and AI-assisted workflows.
 
-<td width="50%">
+Repository:
+https://github.com/jalel-masmoudi/Jigo-AI-workspace
+
 
 ### LeadTN
 
-Lead generation platform helping agencies discover businesses and automate prospecting.
+Lead generation platform designed to help agencies discover businesses, collect prospects, and automate outreach.
 
-</td>
-</tr>
+Repository:
+https://github.com/jalel-masmoudi/leadtn-releases
 
-<tr>
-<td width="50%">
 
 ### Mija AI
 
-AI-powered workspace focused on intelligent workflows and automation.
+AI-powered platform focused on intelligent workflows, productivity, and automation.
 
-</td>
+Repository:
+https://github.com/jalel-masmoudi/masmo-AI
 
-<td width="50%">
 
 ### Algorithm Library
 
-Clean implementations of algorithms and data structures with explanations and complexity analysis.
-
-</td>
-</tr>
-</table>
+A collection of algorithms and data structures implemented with explanations and complexity analysis.
 
 ---
 
-<div align="center">
+## Technologies
 
-## Tech Stack
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,cpp,c,react,nextjs,nodejs,fastapi,tailwind,postgres,mongodb,supabase,docker,git,github,linux&perline=9">
-
-</div>
+<p align="center">
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,ts,react,nextjs,nodejs,fastapi,tailwind,postgres,mongodb,supabase,docker,git,github,linux,vscode&perline=10" />
+</a>
+</p>
 
 ---
 
-<div align="center">
+## GitHub Analytics
 
-## GitHub Stats
+<p align="center">
 
-<br>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=jalel-masmoudi&show_icons=true&hide_border=true&theme=transparent"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=jalel-masmoudi&show_icons=true&hide_border=true&theme=transparent">
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jalel-masmoudi&layout=compact&hide_border=true&theme=transparent"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jalel-masmoudi&layout=compact&hide_border=true&theme=transparent">
+</p>
 
-</div>
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=jalel-masmoudi&hide_border=true&theme=transparent"/>
+
+</p>
 
 ---
-
-<div align="center">
 
 ## Currently Exploring
 
-AI Agents  
-Large Language Models  
-Backend Architecture  
-Distributed Systems  
-Cloud Infrastructure
+Large Language Models
 
-<br>
+AI Agents
 
-Always learning. Always building.
+Retrieval Augmented Generation
+
+Distributed Systems
+
+Cloud Architecture
+
+Open Source Development
+
+---
+
+## Connect
+
+<p align="center">
+
+<a href="mailto:m.j.masmoudi1@gmail.com">
+Email
+</a>
+
+&nbsp;&nbsp;•&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/jalel-masmoudi-0542b4200">
+LinkedIn
+</a>
+
+&nbsp;&nbsp;•&nbsp;&nbsp;
+
+<a href="https://github.com/jalel-masmoudi">
+GitHub
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+Building software that turns ideas into products.
 
 </div>
 
