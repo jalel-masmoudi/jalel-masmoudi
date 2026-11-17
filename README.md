@@ -2,7 +2,7 @@
 
 ML/AI and full-stack engineer in Sfax, Tunisia.
 
-Third-year computer science student at the International Institute of Technology (IIT), Sfax.
+Third-year computer science student at IIT Sfax (International Institute of Technology, part of North American University of Sfax).
 
 ## Featured projects
 
