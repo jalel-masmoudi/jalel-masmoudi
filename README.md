@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Med%20Jalel%20Masmoudi&fontSize=42&fontColor=ffffff&fontAlignY=35&animation=none" alt="Med Jalel Masmoudi" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:111827,100:134e4a&height=180&section=header&text=Med%20Jalel%20Masmoudi&fontSize=42&fontColor=ffffff&fontAlignY=35&animation=twinkling" alt="Med Jalel Masmoudi" width="100%" />
 </p>
 
 <p align="center">
   <a href="https://jalel.me">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=2AA198&center=true&vCenter=true&width=600&lines=AI+Software+Engineer;CS+student+at+IIT+Sfax;RAG%2C+fine-tuning+%26+multi-agent+systems;Full-Stack+Developer" alt="AI Software Engineer, CS student at IIT Sfax, RAG, fine-tuning and multi-agent systems, Full-Stack Developer" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00E5C3&center=true&vCenter=true&width=700&lines=AI+Software+Engineer;CS+student+at+IIT+Sfax;RAG%2C+fine-tuning+%26+multi-agent+systems;Full-Stack+Developer" alt="AI Software Engineer, CS student at IIT Sfax, RAG, fine-tuning and multi-agent systems, Full-Stack Developer" />
   </a>
 </p>
 
@@ -24,12 +24,12 @@ ML/AI and full-stack engineer in Sfax, Tunisia.
 ## Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,postgres,ts,react,nodejs,electron,docker,git,githubactions,linux" alt="Python, PyTorch, FastAPI, PostgreSQL, TypeScript, React, Node.js, Electron, Docker, Git, GitHub Actions, Linux" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,postgres,ts,react,nodejs,electron,docker,git,githubactions,linux&theme=dark" alt="Python, PyTorch, FastAPI, PostgreSQL, TypeScript, React, Node.js, Electron, Docker, Git, GitHub Actions, Linux" />
 </p>
 
 ## Featured projects
 
-- [**jigo-rag-finetune**](https://github.com/jalel-masmoudi/jigo-rag-finetune): Fine-tunes a retriever and a generator for retrieval-augmented answering over enterprise-style documents. On a synthetic auto-filtered test set (n=350, not hand-reviewed): Recall@5 0.760 → 0.929 with the fine-tuned embedder and reranker; exact match 0.180 → 0.454 on the full pipeline.
+- [**jigo-rag-finetune**](https://github.com/jalel-masmoudi/jigo-rag-finetune): Fine-tunes a retriever and a generator for retrieval-augmented answering over enterprise-style documents. On a synthetic auto-filtered test set (n=350): Recall@5 0.760 → 0.929 with the fine-tuned embedder and reranker; exact match 0.180 → 0.454 on the full pipeline.
 - [**skillsmith**](https://github.com/jalel-masmoudi/skillsmith): An agent that writes its own manual for an API it has never seen. Run score 75.96 → 81.83 from run 1 to run 3 (run 2 dipped to 72.3) on the same 20 questions; the training-question mean rose 81.79 → 90.02, and holdout stayed flat at 62.37 → 62.72.
 - [**Jigo-AI-workspace**](https://github.com/jalel-masmoudi/Jigo-AI-workspace): Open-source AI workspace for teams that live in Meet, Notion, Slack, Jira, and ERP systems. It grew to 200+ users, including students and early adopters from Reddit.
 - [**MuseSwarm**](https://github.com/jalel-masmoudi/MuseSwarm): Node.js multi-agent code generator where four LLM roles plan, write, check and fix code, built for the Meta Global AI Developer Hackathon.
@@ -39,21 +39,26 @@ ML/AI and full-stack engineer in Sfax, Tunisia.
 ## Activity
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=jalel-masmoudi&theme=dark&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=jalel-masmoudi&theme=default&hide_border=true" />
-    <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=jalel-masmoudi&theme=default&hide_border=true" />
-  </picture>
+  <img src="https://github-readme-stats.vercel.app/api?username=jalel-masmoudi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&hide_rank=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jalel-masmoudi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top languages" />
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jalel-masmoudi/jalel-masmoudi/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jalel-masmoudi/jalel-masmoudi/output/github-contribution-grid-snake.svg" />
-    <img alt="Contribution snake" src="https://raw.githubusercontent.com/jalel-masmoudi/jalel-masmoudi/output/github-contribution-grid-snake.svg" />
-  </picture>
+  <img src="https://github-readme-activity-graph.ashutosh-dwivedi0710.workers.dev/graph?username=jalel-masmoudi&theme=tokyo-night&bg_color=0d1117&hide_border=true&area=true" alt="GitHub activity graph" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer" alt="" width="100%" />
+  <img src="https://streak-stats.demolab.com?user=jalel-masmoudi&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jalel-masmoudi/jalel-masmoudi/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jalel-masmoudi/jalel-masmoudi/output/profile-3d-contrib/profile-night-rainbow.svg" alt="GitHub 3D contribution graph" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:111827,100:134e4a&height=120&section=footer" alt="" width="100%" />
 </p>
