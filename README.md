@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Med%20Jalel%20Masmoudi&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Med Jalel Masmoudi" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Med%20Jalel%20Masmoudi&fontSize=42&fontColor=ffffff&fontAlignY=35&animation=none" alt="Med Jalel Masmoudi" width="100%" />
 </p>
 
 <p align="center">
   <a href="https://jalel.me">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=2C7BE5&center=true&vCenter=true&width=520&lines=AI+Software+Engineer;CS+student+at+IIT+Sfax;RAG%2C+fine-tuning+%26+multi-agent+systems;Full-Stack+Developer" alt="AI Software Engineer, CS student at IIT Sfax, RAG, fine-tuning and multi-agent systems, Full-Stack Developer" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=2AA198&center=true&vCenter=true&width=600&lines=AI+Software+Engineer;CS+student+at+IIT+Sfax;RAG%2C+fine-tuning+%26+multi-agent+systems;Full-Stack+Developer" alt="AI Software Engineer, CS student at IIT Sfax, RAG, fine-tuning and multi-agent systems, Full-Stack Developer" />
   </a>
 </p>
 
@@ -18,8 +18,8 @@
 
 ML/AI and full-stack engineer in Sfax, Tunisia.
 
-- Bachelor's in Computer Science at IIT Sfax (International Institute of Technology, part of North American University of Sfax), Sep 2024 to Jun 2027 (expected).
-- AI Software Engineering Intern at MTD Group, Jul to Aug 2026.
+- Third-year Bachelor's in Computer Science at IIT Sfax (International Institute of Technology, part of North American University of Sfax), Sep 2024 to Jun 2027.
+- AI Software Engineering Intern at MTD Group Tunisia, Jul to Aug 2026.
 
 ## Stack
 
@@ -34,12 +34,16 @@ ML/AI and full-stack engineer in Sfax, Tunisia.
 - [**Jigo-AI-workspace**](https://github.com/jalel-masmoudi/Jigo-AI-workspace): Open-source AI workspace for teams that live in Meet, Notion, Slack, Jira, and ERP systems. It grew to 200+ users, including students and early adopters from Reddit.
 - [**MuseSwarm**](https://github.com/jalel-masmoudi/MuseSwarm): Node.js multi-agent code generator where four LLM roles plan, write, check and fix code, built for the Meta Global AI Developer Hackathon.
 - [**Mija-AI**](https://github.com/jalel-masmoudi/Mija-AI): Hackathon demo with a step-by-step assembly guide for one bedside cabinet, step Q&A and a photo check.
-- [**LeadsTn**](https://github.com/jalel-masmoudi/leadtn-releases): Private Electron desktop app that searches and filters Google Maps business prospects (public downloads).
+- [**LeadTN**](https://github.com/jalel-masmoudi/leadtn-releases): Private Electron desktop app that searches and filters Google Maps business prospects (public downloads).
 
 ## Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=jalel-masmoudi&theme=transparent&hide_border=true&ring=2C7BE5&fire=2C7BE5&currStreakLabel=2C7BE5" alt="GitHub streak" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=jalel-masmoudi&theme=dark&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=jalel-masmoudi&theme=default&hide_border=true" />
+    <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=jalel-masmoudi&theme=default&hide_border=true" />
+  </picture>
 </p>
 
 <p align="center">

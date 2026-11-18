@@ -7,13 +7,16 @@ on:
   push:
     branches: [main]
 
-permissions:
-  contents: write
+concurrency:
+  group: snake
+  cancel-in-progress: true
 
 jobs:
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 5
+    permissions:
+      contents: write
     steps:
       - uses: Platane/snk@v3
         with:
