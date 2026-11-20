@@ -39,8 +39,8 @@ ML/AI and full-stack engineer in Sfax, Tunisia.
 ## Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jalel-masmoudi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&hide_rank=true" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jalel-masmoudi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jalel-masmoudi&show_icons=true&theme=tokyonight&border_color=30363d&bg_color=0d1117&hide_rank=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jalel-masmoudi&layout=compact&theme=tokyonight&border_color=30363d&bg_color=0d1117" alt="Top languages" />
 </p>
 
 <p align="center">
@@ -48,7 +48,7 @@ ML/AI and full-stack engineer in Sfax, Tunisia.
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=jalel-masmoudi&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=jalel-masmoudi&theme=tokyonight&border=30363d&background=0D1117" alt="GitHub streak" />
 </p>
 
 <p align="center">
