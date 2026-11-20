@@ -1,4 +1,4 @@
-name: Generate snake
+name: Profile assets
 
 on:
   schedule:
@@ -20,7 +20,7 @@ jobs:
     steps:
       - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
 
-      - uses: Platane/snk@v3
+      - uses: Platane/snk@d8f6715049803e982ee5ff501b6b9b7d5deeb09b # v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
@@ -34,10 +34,10 @@ jobs:
 
       - name: Add 3D chart to the publish directory
         run: |
-          mkdir -p dist/profile-3d-contrib
-          cp profile-3d-contrib/profile-night-rainbow.svg dist/profile-3d-contrib/
+          sudo mkdir -p dist/profile-3d-contrib
+          sudo cp profile-3d-contrib/profile-night-rainbow.svg dist/profile-3d-contrib/
 
-      - uses: crazy-max/ghaction-github-pages@v5
+      - uses: crazy-max/ghaction-github-pages@1d6ee9b181a81033a16bd707a1401afa978daab4 # v5
         with:
           target_branch: output
           build_dir: dist
